@@ -1,3 +1,0 @@
-# Escodoo
-
-Em construção
