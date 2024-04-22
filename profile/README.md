@@ -2,7 +2,7 @@
 
 ## Quem Somos
 
-A Escodoo é uma empresa brasileira pioneira em soluções empresariais utilizando o sistema Odoo, uma poderosa plataforma de código aberto que tem transformado a forma como as empresas gerenciam suas operações. Com sede em Ribeirão Preto, São Paulo, atendemos clientes por todo o Brasil, oferecendo suporte contínuo e treinamento para maximizar o aproveitamento das funcionalidades do Odoo.
+A Escodoo é uma empresa brasileira pioneira no fornecimento de soluções empresariais por meio do sistema Odoo, uma robusta plataforma de código aberto que vem revolucionando a gestão empresarial. Localizada em Ribeirão Preto, São Paulo, a Escodoo atende clientes em todo o Brasil e internacionalmente, oferecendo suporte contínuo e treinamento para otimizar o uso das funcionalidades do Odoo.
 
 ## Nossa Missão
 
