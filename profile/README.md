@@ -24,6 +24,7 @@ Quer fazer parte da revolução Odoo? Aqui está como você pode contribuir:
 - **Link Oficial da Odoo S.A.**: Visite o site oficial da [Odoo S.A.](https://odoo.com) para saber mais sobre o Odoo.
 - **Link Oficial do OCA**: Visite o site oficial da [OCA](https://odoo-community.org) para saber detalhades sobre a OCA.
 - **Link Canal da Escodoo no Youtube**: Visite nosso [canal do youtube](https://youtube.com/c/Escodoo) para saber conhecer mais sobre como o Odoo pode atender diversos processos.
+- **Link da nossa wiki**: Visite [Wiki].(https://github.com/Escodoo/escodoo.github.io/wiki)
 
 ## Participe da Comunidade
 
